@@ -17,7 +17,7 @@ API = CONFIG['URL_API']
 ENDPOINTS = ["pussy", "ass", "boobs", "milf", "teen", "asian"]
 
 # channel chat id where the bot will send porns every 30 seconds, make sure the bot is admin
-CHANNEL = -1001654351009
+CHANNEL = -1002112984585
 
 # function to send the message
 async def funzione():
@@ -30,7 +30,7 @@ async def funzione():
             InlineKeyboardButton("🌠 Photo Link", url=PK.get('url'))
         ],      
         [
-            InlineKeyboardButton("📌 CircusClan", url="https://t.me/CircusClan")
+            InlineKeyboardButton("📌 CircusClan", url="https://t.me/BigAssGirlz")
         ]       
     ]
         
